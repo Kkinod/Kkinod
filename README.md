@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kamil-pawelek/" >Linkedin</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/Kkinod/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkinod&layout=compact)](https://github.com/Kkinod/github-readme-stats)
 
 <!-- Stats -->
 <!-- [![Kkinod GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkinod)](https://github.com/Kkinod/github-readme-stats) -->

@@ -5,8 +5,8 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kamil-pawelek/" >Linkedin</a>
 
-
-[![Kkinod GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkinod)](https://github.com/Kkinod/github-readme-stats)
+<!-- Stats -->
+<!-- [![Kkinod GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkinod)](https://github.com/Kkinod/github-readme-stats) -->
 
 <!---
 Kkinod/Kkinod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

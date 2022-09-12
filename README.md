@@ -13,8 +13,6 @@
 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kamil-pawelek/" >Linkedin</a>
 
-Writing bad code since:
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkinod&layout=compact)](https://github.com/Kkinod/github-readme-stats)
 

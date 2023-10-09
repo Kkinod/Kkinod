@@ -15,7 +15,7 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/kamil-pawelek/" >Linkedin</a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkinod&theme=noctis_minimus)](https://github.com/Kkin/)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kkinod&theme=noctis_minimus)]
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kkinod&layout=compact&theme=noctis_minimus)](https://github.com/Kkinod/github-readme-stats)
 
 <!-- Stats -->

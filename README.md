@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Kamil
+<h1> Hi there, I’m Kamil! 👋 </h1>
 - 👀 I am JavaScript enthusiast from Poland 
 - 🌱 I’m currently working on developing my programming skills.
   - Writing since:
